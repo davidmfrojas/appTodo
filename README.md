@@ -1,8 +1,8 @@
 # WebpackStarter
 ## Configuración inicial básica para proyectos con WebPack
 
-Este es el proyecto inicial para crear 
-aplicaicones utilizando webpack.
+Este es el proyecto TODO para crear tareas por realizar,marcarlas realizadas o desmarcarlas y borrar las completadas
+aplicaciones creada con webpack.
 
 ### Notas:
 Recordar reconstruir los módulos de Node:
